@@ -1,4 +1,5 @@
-src/serviceWorker.js
-package-lock.json
-src/assets/lottie
-
+**/*.min.css
+**/*.min.js
+assets/css/main.scss
+assets/plotly/demo.html
+lighthouse_results/**
