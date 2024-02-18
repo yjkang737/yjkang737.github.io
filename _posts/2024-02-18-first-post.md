@@ -16,4 +16,3 @@ I made my website, and I am writing my first blog post. My GitHub page is [here]
 - [ ] Revise My CV
 
 <hr>
-
